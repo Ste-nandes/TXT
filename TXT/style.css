@@ -1,0 +1,57 @@
+*{background-color: black;
+}
+
+h1{
+    color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+
+img{
+    height: 200px;
+margin-left: 780px;
+margin-top: 50px;}
+
+h3{
+    color: aliceblue;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+   
+#flex-container{
+    border: 1px solid red;
+    border-radius: 5px;
+    width: 100px;
+    align-items: flex-start;
+    color: white;
+    height: 105px;
+    margin-left: 25px;
+    
+}
+
+footer{
+    color: darkred;
+    text-align: center;
+}
+
+.flex-item{
+    outline-style:solid;
+    font-size: 25px;
+    text-align: center;
+    list-style: none;
+    height: 80px;
+    align-items: center;
+    
+}
+
+.menu{
+    margin-left: 30px;
+  }
+
+ a:hover{
+    cursor: pointer;
+    color: darkred;
+ }
+
